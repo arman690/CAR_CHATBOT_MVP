@@ -273,15 +273,7 @@ Edit `static/index.html` to modify the web interface design and functionality.
 4. Add tests
 5. Submit a pull request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-- **Issues**: Report bugs via GitHub Issues
-- **Documentation**: Check the `/docs` folder for detailed documentation
-- **Contact**: [your-email@example.com]
 
 ## 🔮 Roadmap
 
